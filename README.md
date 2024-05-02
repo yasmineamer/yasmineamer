@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasmineamer
-- 👀 I’m interested in embedded system field
+- 👀 I’m embedded software engineer
 - 🌱 I’m currently learning machine learning
 
 
